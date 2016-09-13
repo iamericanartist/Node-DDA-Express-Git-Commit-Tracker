@@ -1,11 +1,23 @@
-# Express Pug Heroku
-## Node Database Driven Application / Express Pug Heroku / PizzaPlaceTwo
+# GitHub Commit Tracker
+## Node Database Driven Application / Express Pug Fetch / GitHub Commit Tracker
 
 
-![Express Pug Pizza](public/images/PizzaPlaceTwo.jpg?raw=true "Express Pug Pizza Screenshot")
+![GitHub Commit Tracker](public/images/GitHubTrackerScreen.jpg?raw=true "GitHub Commit Tracker Screenshot")
 
-[Check it out on Heroku](https://floating-spire-47496.herokuapp.com/)
+[Check it out on Heroku](https://.com/)
 ***
 ## Requirements  
 
-Using **Express** and **Pug**, make a starter page for a Pizzaria. Using **routes**, **views**, **partials**, and utilizing a **public** folder, create a modular website with lots of ES6 syntax, and host it on Heroku.
+Using **Express** and **Pug**, make a page for scraping and displaying a users commit data. Using **routes**, **views**, **partials**, and utilizing a **public** folder, create a modular website with lots of ES6 syntax, and host it on Heroku.
+
+## Technologies Used
+EXPRESS
+PUG
+Cheerio
+Fetch
+
+Bower
+Npm
+Git
+GitHub
+Heroku
